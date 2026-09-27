@@ -1,0 +1,38 @@
+[
+    {
+        "identificador": "V001",
+        "usuario_id": "12002344",
+        "producto_codigo": "C1300",
+        "fecha": "2026-09-26"
+    },
+    {
+        "identificador": "V002",
+        "usuario_id": "12025895",
+        "producto_codigo": "C1200",
+        "fecha": "2026-09-26"
+    },
+    {
+        "identificador": "V003",
+        "usuario_id": "16782339",
+        "producto_codigo": "A1202",
+        "fecha": "2026-09-26"
+    },
+    {
+        "identificador": "V004",
+        "usuario_id": "16780093",
+        "producto_codigo": "L4004",
+        "fecha": "2026-09-26"
+    },
+    {
+        "identificador": "V005",
+        "usuario_id": "10034378",
+        "producto_codigo": "C1300",
+        "fecha": "2026-09-26"
+    },
+    {
+        "identificador": "V006",
+        "usuario_id": "15567239",
+        "producto_codigo": "A1200",
+        "fecha": "2026-09-26"
+    }
+]

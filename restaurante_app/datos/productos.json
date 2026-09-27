@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "CAT",
+        "codigo": "A1200",
+        "precio": 3.99,
+        "categoria": "Alimento de gato",
+        "stock": 40
+    },
+    {
+        "nombre": "DOG",
+        "codigo": "A1202",
+        "precio": 5.99,
+        "categoria": "Alimento para perro",
+        "stock": 10
+    },
+    {
+        "nombre": "Avena Sol",
+        "codigo": "C1200",
+        "precio": 1.99,
+        "categoria": "Cereal grano entero",
+        "stock": 0
+    },
+    {
+        "nombre": "Chocofles",
+        "codigo": "C1300",
+        "precio": 4.5,
+        "categoria": "Cereal",
+        "stock": 28
+    },
+    {
+        "nombre": "Mantequilla Mirasol",
+        "codigo": "L4000",
+        "precio": 2.3,
+        "categoria": "Lacteo",
+        "stock": 50
+    },
+    {
+        "nombre": "La vaquita",
+        "codigo": "L4004",
+        "precio": 1.0,
+        "categoria": "Lacteo",
+        "stock": 56
+    },
+    {
+        "nombre": "Producto pueba",
+        "codigo": "T0009",
+        "precio": 3.99,
+        "categoria": "Prueba",
+        "stock": 20
+    }
+]
